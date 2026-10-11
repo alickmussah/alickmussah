@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ...to code and to not be an asshole
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: ...God/deity 
-- ⚡ Fun fact: ...I am God
+- 😄 Pronouns: ...demi-god/deity 
+- ⚡ Fun fact: ...I am a demi-god
 
 <!---
 alickmussah/alickmussah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
